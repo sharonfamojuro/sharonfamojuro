@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sharon, a Business Intelligence Analyst student with TripleTen👨‍💻 🚀</div>  
+### <div align="center">Hi! I'm Sharon, a Business Intelligence Analyst student with TripleTen👨‍💻 🚀</div>  
   
 
 - 🌱 I’m currently learning Python programming language  
